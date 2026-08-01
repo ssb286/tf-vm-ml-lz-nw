@@ -1,11 +1,18 @@
 rgs = {
-  rgs1 = {
+  rgs0 = {
     name     = "sarrgi"
     location = "centralindia"
   }
-
+  rgs1 = {
+    name     = "sarrgi2"
+    location = "centralindia"
+  }
   rgs2 = {
     name     = "sarrgs"
+    location = "southindia"
+  }
+    rgs3 = {
+    name     = "sarrgs2"
     location = "southindia"
   }
 }
