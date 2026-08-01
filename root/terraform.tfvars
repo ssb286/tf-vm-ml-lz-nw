@@ -8,6 +8,10 @@ rgs = {
     name     = "sarrgs"
     location = "southindia"
   }
+    rgs3 = {
+    name     = "sarrgs2"
+    location = "southindia"
+  }
 }
 
 vnet = {
